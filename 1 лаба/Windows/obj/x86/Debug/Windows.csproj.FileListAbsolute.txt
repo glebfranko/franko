@@ -1,0 +1,62 @@
+C:\Users\А\Documents\Visual Studio 2010\Projects\lab6\Windows\bin\Debug\Windows.exe
+C:\Users\А\Documents\Visual Studio 2010\Projects\lab6\Windows\bin\Debug\Windows.pdb
+C:\Users\А\Documents\Visual Studio 2010\Projects\lab6\Windows\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\А\Documents\Visual Studio 2010\Projects\lab6\Windows\obj\x86\Debug\Windows.Form1.resources
+C:\Users\А\Documents\Visual Studio 2010\Projects\lab6\Windows\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\А\Documents\Visual Studio 2010\Projects\lab6\Windows\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\А\Documents\Visual Studio 2010\Projects\lab6\Windows\obj\x86\Debug\Windows.exe
+C:\Users\А\Documents\Visual Studio 2010\Projects\lab6\Windows\obj\x86\Debug\Windows.pdb
+C:\Users\А\Documents\Visual Studio 2010\Projects\lab6\Windows\bin\Debug\Windows.exe.config
+H:\lab6\lab6\Windows\bin\Debug\Windows.exe.config
+H:\lab6\lab6\Windows\obj\x86\Debug\Windows.exe
+H:\lab6\lab6\Windows\obj\x86\Debug\Windows.pdb
+H:\lab6\lab6\Windows\bin\Debug\Windows.exe
+H:\lab6\lab6\Windows\bin\Debug\Windows.pdb
+H:\lab6\lab6\Windows\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\lab6\lab6\Windows\obj\x86\Debug\Windows.Form1.resources
+H:\lab6\lab6\Windows\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\lab6\lab6\Windows\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Аня\Desktop\lab6\Windows\bin\Debug\Windows.exe.config
+C:\Users\Аня\Desktop\lab6\Windows\obj\x86\Debug\Windows.exe
+C:\Users\Аня\Desktop\lab6\Windows\obj\x86\Debug\Windows.pdb
+C:\Users\Аня\Desktop\lab6\Windows\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Аня\Desktop\lab6\Windows\obj\x86\Debug\Windows.Form1.resources
+C:\Users\Аня\Desktop\lab6\Windows\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Аня\Desktop\lab6\Windows\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Аня\Desktop\lab6\Windows\bin\Debug\Windows.exe
+C:\Users\Аня\Desktop\lab6\Windows\bin\Debug\Windows.pdb
+H:\6 лаба\Windows\bin\Debug\Windows.exe.config
+H:\6 лаба\Windows\obj\x86\Debug\Windows.exe
+H:\6 лаба\Windows\obj\x86\Debug\Windows.pdb
+H:\6 лаба\Windows\bin\Debug\Windows.exe
+H:\6 лаба\Windows\bin\Debug\Windows.pdb
+H:\6 лаба\Windows\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\6 лаба\Windows\obj\x86\Debug\Windows.Form1.resources
+H:\6 лаба\Windows\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\6 лаба\Windows\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\6 лаба\Windows\bin\Debug\Windows.exe.config
+G:\6 лаба\Windows\obj\x86\Debug\Windows.exe
+G:\6 лаба\Windows\obj\x86\Debug\Windows.pdb
+G:\6 лаба\Windows\bin\Debug\Windows.exe
+G:\6 лаба\Windows\bin\Debug\Windows.pdb
+G:\6 лаба\Windows\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\6 лаба\Windows\obj\x86\Debug\Windows.Form1.resources
+G:\6 лаба\Windows\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\6 лаба\Windows\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\User\Desktop\ВЕББ\6 лаба\Windows\bin\Debug\Windows.exe.config
+C:\Users\User\Desktop\ВЕББ\6 лаба\Windows\obj\x86\Debug\Windows.exe
+C:\Users\User\Desktop\ВЕББ\6 лаба\Windows\obj\x86\Debug\Windows.pdb
+C:\Users\User\Desktop\ВЕББ\6 лаба\Windows\bin\Debug\Windows.exe
+C:\Users\User\Desktop\ВЕББ\6 лаба\Windows\bin\Debug\Windows.pdb
+C:\Users\User\Desktop\ВЕББ\6 лаба\Windows\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\User\Desktop\ВЕББ\6 лаба\Windows\obj\x86\Debug\Windows.Form1.resources
+C:\Users\User\Desktop\ВЕББ\6 лаба\Windows\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\User\Desktop\ВЕББ\6 лаба\Windows\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Kholmansky Maxim\Desktop\Web программирование\ВЕББ\ВЕББ\6 лаба\Windows\bin\Debug\Windows.exe.config
+C:\Users\Kholmansky Maxim\Desktop\Web программирование\ВЕББ\ВЕББ\6 лаба\Windows\obj\x86\Debug\Windows.exe
+C:\Users\Kholmansky Maxim\Desktop\Web программирование\ВЕББ\ВЕББ\6 лаба\Windows\obj\x86\Debug\Windows.pdb
+C:\Users\Kholmansky Maxim\Desktop\Web программирование\ВЕББ\ВЕББ\6 лаба\Windows\bin\Debug\Windows.exe
+C:\Users\Kholmansky Maxim\Desktop\Web программирование\ВЕББ\ВЕББ\6 лаба\Windows\bin\Debug\Windows.pdb
+C:\Users\Kholmansky Maxim\Desktop\Web программирование\ВЕББ\ВЕББ\6 лаба\Windows\obj\x86\Debug\Windows.Form1.resources
+C:\Users\Kholmansky Maxim\Desktop\Web программирование\ВЕББ\ВЕББ\6 лаба\Windows\obj\x86\Debug\Windows.csproj.GenerateResource.Cache
+C:\Users\Kholmansky Maxim\Desktop\Web программирование\ВЕББ\ВЕББ\6 лаба\Windows\obj\x86\Debug\Windows.csprojResolveAssemblyReference.cache

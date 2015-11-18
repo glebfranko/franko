@@ -1,0 +1,29 @@
+C:\Users\А\Documents\Visual Studio 2010\Projects\lab6\lab6\bin\lab6.dll
+C:\Users\А\Documents\Visual Studio 2010\Projects\lab6\lab6\bin\lab6.pdb
+C:\Users\А\Documents\Visual Studio 2010\Projects\lab6\lab6\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\А\Documents\Visual Studio 2010\Projects\lab6\lab6\obj\Debug\lab6.dll
+C:\Users\А\Documents\Visual Studio 2010\Projects\lab6\lab6\obj\Debug\lab6.pdb
+H:\lab6\lab6\lab6\bin\lab6.dll
+H:\lab6\lab6\lab6\bin\lab6.pdb
+H:\lab6\lab6\lab6\obj\Debug\ResolveAssemblyReference.cache
+H:\lab6\lab6\lab6\obj\Debug\lab6.dll
+H:\lab6\lab6\lab6\obj\Debug\lab6.pdb
+C:\Users\Аня\Desktop\lab6\lab6\bin\lab6.dll
+C:\Users\Аня\Desktop\lab6\lab6\bin\lab6.pdb
+C:\Users\Аня\Desktop\lab6\lab6\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Аня\Desktop\lab6\lab6\obj\Debug\lab6.dll
+C:\Users\Аня\Desktop\lab6\lab6\obj\Debug\lab6.pdb
+H:\6 лаба\lab6\bin\lab6.dll
+H:\6 лаба\lab6\bin\lab6.pdb
+H:\6 лаба\lab6\obj\Debug\ResolveAssemblyReference.cache
+H:\6 лаба\lab6\obj\Debug\lab6.dll
+H:\6 лаба\lab6\obj\Debug\lab6.pdb
+G:\6 лаба\lab6\bin\lab6.dll
+G:\6 лаба\lab6\bin\lab6.pdb
+G:\6 лаба\lab6\obj\Debug\ResolveAssemblyReference.cache
+G:\6 лаба\lab6\obj\Debug\lab6.dll
+G:\6 лаба\lab6\obj\Debug\lab6.pdb
+C:\Users\Kholmansky Maxim\Desktop\Web программирование\ВЕББ\ВЕББ\6 лаба\lab6\bin\lab6.dll
+C:\Users\Kholmansky Maxim\Desktop\Web программирование\ВЕББ\ВЕББ\6 лаба\lab6\bin\lab6.pdb
+C:\Users\Kholmansky Maxim\Desktop\Web программирование\ВЕББ\ВЕББ\6 лаба\lab6\obj\Debug\lab6.dll
+C:\Users\Kholmansky Maxim\Desktop\Web программирование\ВЕББ\ВЕББ\6 лаба\lab6\obj\Debug\lab6.pdb
