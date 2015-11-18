@@ -27,3 +27,7 @@ C:\Users\Kholmansky Maxim\Desktop\Web программирование\ВЕББ\
 C:\Users\Kholmansky Maxim\Desktop\Web программирование\ВЕББ\ВЕББ\6 лаба\lab6\bin\lab6.pdb
 C:\Users\Kholmansky Maxim\Desktop\Web программирование\ВЕББ\ВЕББ\6 лаба\lab6\obj\Debug\lab6.dll
 C:\Users\Kholmansky Maxim\Desktop\Web программирование\ВЕББ\ВЕББ\6 лаба\lab6\obj\Debug\lab6.pdb
+D:\Програмная инженерия. Власкин\1 лаба\lab6\bin\lab6.dll
+D:\Програмная инженерия. Власкин\1 лаба\lab6\bin\lab6.pdb
+D:\Програмная инженерия. Власкин\1 лаба\lab6\obj\Debug\lab6.dll
+D:\Програмная инженерия. Власкин\1 лаба\lab6\obj\Debug\lab6.pdb
