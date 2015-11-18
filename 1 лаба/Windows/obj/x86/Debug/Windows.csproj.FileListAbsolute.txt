@@ -60,3 +60,6 @@ C:\Users\Kholmansky Maxim\Desktop\Web программирование\ВЕББ\
 C:\Users\Kholmansky Maxim\Desktop\Web программирование\ВЕББ\ВЕББ\6 лаба\Windows\obj\x86\Debug\Windows.Form1.resources
 C:\Users\Kholmansky Maxim\Desktop\Web программирование\ВЕББ\ВЕББ\6 лаба\Windows\obj\x86\Debug\Windows.csproj.GenerateResource.Cache
 C:\Users\Kholmansky Maxim\Desktop\Web программирование\ВЕББ\ВЕББ\6 лаба\Windows\obj\x86\Debug\Windows.csprojResolveAssemblyReference.cache
+D:\Програмная инженерия. Власкин\1 лаба\Windows\bin\Debug\Windows.exe.config
+D:\Програмная инженерия. Власкин\1 лаба\Windows\obj\x86\Debug\Windows.exe
+D:\Програмная инженерия. Власкин\1 лаба\Windows\obj\x86\Debug\Windows.pdb
